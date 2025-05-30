@@ -1,0 +1,126 @@
+=== CONTEXT FOR LLM ===
+This is the exact context that would be sent to the LLM.
+Each article is separated by a clear boundary and includes metadata.
+==================================================
+
+
+==================================================
+Article URL: http://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/exam-papers
+Section: 1 Case Studies
+Total chunks in article: 2
+Chunk indices: [0, 1]
+==================================================
+
+
+--- Chunk 1 (Index 0) ---
+Token count: 256
+Content:
+# Exam Papers
+
+## Introduction
+
+Every year, hundreds of thousands of students sit exams, the results of which determine their immediate future. With such high importance placed on the event, exam papers must be deemed tamper-proof, and a high-quality exam paper shrink wrap operation is the beginning of that journey.
+
+Large universities may find it cost-effective to have an exam paper shrink wrap machine on-site. Local printers and/or regional education authorities may wish to work with a company that has the solution readily available.
+
+## Project Specifications
+
+While examinations are planned in advance, the actual exam papers and contents of which are not assembled until the very last minute. This requires a shrink wrap machine that can process a large volume of collated papers at high speed in a short duration, with assurance that the film used to wrap is tamper-proof and durable.
+
+The printer setup and collating of documents machinery has already been sourced. The client requires a solution that wraps and also boxes the resulting exam papers so they can be easily stored and despatched.
+
+## Overview
+
+With the printing solution in place, it would be discussed whether the end operation need be manual or fully automated. With manual, a semi-automated L-Sealer with shrink tunnel would more than suffice, enabling over 700 units to
+
+
+
+--- Chunk 2 (Index 1) ---
+Token count: 256
+Content:
+ resulting exam papers so they can be easily stored and despatched.
+
+## Overview
+
+With the printing solution in place, it would be discussed whether the end operation need be manual or fully automated. With manual, a semi-automated L-Sealer with shrink tunnel would more than suffice, enabling over 700 units to be processed an hour.
+
+However, as they were the only local authority to have an on-site shrink wrap machine for exam papers, it was deemed more cost-effective to use the machine as supplementary income also. With other colleges and universities in the region able to book a slot to seal their own exam papers too.
+
+In this instance, an automatic L-sealer with tunnel could manage many more items per hour and allow for additional budget to be compensated by outsourcing payments from customers. We recommended a polyolefin shrink film that was both durable, tear-proof, and could be security marked. A side belt-driven carton sealer would finish the process.
+
+We also advised that while student name and identification was already featured on the documents and as an insert, a further label should be positioned on the wrapped documents. This is an idea they will be taking up in the future.
+
+## Company Budget
+
+**£10,000**
+
+## Purchase Costs
+
+**£15,300
+
+
+
+==================================================
+Article URL: http://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/a-semi-automatic-turntable-stretch-wrapper-saves-one-year-s-salary
+Section: 10 Pallet Stretch Wrapping
+Total chunks in article: 1
+Chunk indices: [0]
+==================================================
+
+
+--- Chunk 1 (Index 0) ---
+Token count: 256
+Content:
+# A Semi Automatic Turntable Stretch Wrapper Saves One Year's Salary
+
+You can go to church on Sunday with a clear conscience and take that receipt for your new turntable stretch wrapper with you. Everyone in the world is not your responsibility and your business and its current staff have to be a priority. Our engineers had a dream and it's your company that we thought of first. We figured out that we can save you the equivalent of a year's salaried employee.
+
+As a [specialist stretch wrap machine company](https://shrinkwrappingsupplies.co.uk/shrink-wrap-machinery/pallet-wrap-machines.html), we can probably save you paying the salaries of two or more people for an entire year - at least one if not replacing an entire line. We might be able to reduce your stretch film and shrink wrap usage by up to 50%. Through careful planning, you may also combine your new purchase with meeting carbon trading targets too. Sounds too good to be true?
+
+Distributors and producers with end-of-line operations turn to us on an almost daily basis for assistance. The need for automated and robotic labour is upon us and why should you be left behind? For decades, millions of people have been going round and round in circles wrapping pallets of
+
+
+
+==================================================
+Article URL: http://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/distribution-company
+Section: 1 Case Studies
+Total chunks in article: 1
+Chunk indices: [1]
+==================================================
+
+
+--- Chunk 1 (Index 1) ---
+Token count: 256
+Content:
+ despatch the whole load to a customer. However, most shipments need existing stretch wrap removed, boxes reallocated, and pallets stretch wrapped once again. An automatic distributor end-of-line which could re-wrap pallets in seconds would save on labour costs.
+
+## Overview
+
+Upon review, we found the client had been using a turntable stretch wrapper and wrapping one pallet at a time. It made much more sense to have a custom-built vertical stretch wrapper with a conveyor system. We offered a bespoke solution with inbound pallets loaded onto a conveyor from the trucks.
+
+Goods would be placed on new pallets with old pallets automatically racked by machine. The second conveyor would take picked boxes to an end-of-line distributor stretch wrap machine which would wrap a pallet in less than 30 seconds, in a uniform manner. We also suggested a switch from clear wrap to coloured to negate opportunist theft of high-valued goods. Pallets could then be loaded straight onto trucks for transport to client or stored in the warehouse until next despatch.
+
+## Company Budget
+
+**£50,000**
+
+## Purchase Costs
+
+**£46,000**
+
+## Production Upturn
+
+**220%**
+
+## References
+
+A distributor shrink wrap case study is a per distribution assessment and review, and no two
+
+
+
+==================================================
+CONTEXT STATISTICS:
+Total articles: 3
+Total chunks: 4
+Total tokens (estimated): 1024
+==================================================

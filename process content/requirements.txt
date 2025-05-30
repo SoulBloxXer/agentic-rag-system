@@ -1,0 +1,13 @@
+langchain>=0.1.0
+langchain-community>=0.0.10  # Required for embeddings and vector stores
+openai>=1.0.0
+tiktoken>=0.5.0  # for token counting
+python-dotenv>=1.0.0  # for environment variables
+faiss-cpu>=1.7.4  # for vector storage
+chromadb>=0.4.0  # alternative vector storage
+pytest>=7.0.0  # for testing
+markdown>=3.5.1  # for markdown parsing
+pydantic>=2.5.2  # for data validation
+typing-extensions>=4.8.0  # for enhanced type hints
+loguru>=0.7.2  # for better logging
+numpy>=1.24.3  # for embedding normalization 

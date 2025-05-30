@@ -1,0 +1,138 @@
+=== START of Troubleshooting Guides ===
+
+---
+
+> **URL:** <https://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/finished-shrink-wrap-problems-splitting-seals>
+> **Section:** 2 Troubleshooting Guides
+
+# Finished Shrink Wrap Problems: Splitting Seals
+
+## Effect
+
+After the product has been shrink-wrapped and heat-sealed, the shrink film opens at a seam or parts of the seal fall away from its opposite. This is called splitting seals or weak seals.
+
+While a great many of the common shrink wrap problems are harmless and unnoticeable to the end user or customer base, splitting seals can affect your business both from a trust standpoint and as a noticeable issue with spoiled goods or lost revenue.
+
+If you are shrink wrapping multiple loose items in trays, tamper-proofing bottles, or protecting fresh food, if a seal is open, you may lose parts of a product, and a client may refuse receipt of any delivery that isn't fully secure. Split seals in shrink film are not 'Fish Eyes', which can be fixed tomorrow; they require urgent attention immediately.
+
+1.  If you are using a conveyor, consider that the sealing cycle is too fast. You are dealing with a form of plastic; it requires time to respond to the heated environment and shrink and attach to itself sufficiently.
+2.  If only parts of the seal are splitting, rather than the entire length, you can check the sealing wire for causes. Does it need cleaning? Is it hot enough? Or perhaps maybe the sealing wire is too hot? Test to determine.
+3.  It may be that the clamp pressure on the sealing wire is not set high enough, or a part is causing the pressure to be placed unevenly. So, check that the seal pad or seal tape is not worn too.
+4.  Lastly, or first of all, check shrink film compatibility with your machine. Upgauge and make use of a thicker shrink film product (which is determined by microns), or check the quality of the shrink wrap you have been used to – is it a faulty product?
+
+Don't panic; yes, the reasons are numerous, and the splitting seals and weak seals have a variety of sources attributed to them. If you have a contract for a regular machine service, consider using it now. Or calling someone in to check and give your shrink wrap machine a once-over to correct and find the problem if you cannot ascertain the cause yourself.
+
+---
+
+> **URL:** <http://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/dog-ears-triangles>
+> **Section:** 2 Troubleshooting Guides
+
+# Dog ears & triangles
+
+## I get dog ears & triangles in my finished shrink wrap
+
+## Effect
+
+Dog ears is the 'industry' term for those suppressed triangles at the corners of the shrink film packaging. While it is commonplace to have small dog ears, the end finish of excessive triangles can be reduced by further sampling.
+
+Shrink wrapping machines utilise two methods to shrink the film by creating a vacuum and at the same time applying heat. This channel of heated air can be tested and modified across your entire product range. Often requiring different settings for each item.
+
+That said, the problem of dog ears cannot always be eradicated but lessened. There are several reasons why your packaging is seeing dog ears in the finished product, and ways to reduce the effect once the problem is ascertained.
+
+1.  Testing with different heat temperatures in the tunnel or chamber will allow you to lessen the effects of dog ears. If your machine suddenly starts delivering dog-eared packaging and altering heat settings doesn't resolve, a part may be malfunctioning.
+2.  The type of shrink film that you use with your machine might be the wrong size or thickness. This might leave too much film around the edges, leaving the film with the only option but to fold down on itself once heat is applied. The quality of the shrink film may also be problematic. For instance, PVC is of a lesser quality than Polyolefin. Change rolls and experiment.
+3.  Shrink wrapping is not an exact science; rather, the science as yet cannot be fully solved by a machine application. Cardboard boxes have edges and are uniform. Shrink film, on the other hand, is a not-so-precise result from heat exchange. The way the heat travels around a product's shape within a vacuum determines how the shrink wrap will collapse in on itself.
+
+To labour the final point in layman's terms. If your product is square or rectangular and has obvious edges, then the circulation of heat easily shrinks the film to the edges. Where that edge might be circular, the film has nowhere to go but shrink to its opposite film. Hence the triangular shape.
+
+From a design aspect and final packaging, if you have OCD, then this could be a huge problem. However, most in the industry accept that these dog ears will play a small part in the end product's packaging occasionally.
+
+Large dog ears and triangles can certainly be combated by testing with different shrink film, heat settings, keeping the machine well maintained on a service contract, and using less rounded edges on exterior product packaging.
+
+_If you are still unsure, raise a ticket with us._
+
+---
+
+> **URL:** <https://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/problems-with-sealing>
+> **Section:** 2 Troubleshooting Guides
+
+# Problems with Sealing
+
+Issues with sealing: there could be a number of problems. Three of the most common are:
+
+-   Magnets not connecting
+-   Sealing Blade broken
+-   Sealing Blade needs replacing
+
+We've created these short videos to guide you through common faults your shrink wrap machine may face on the L-Sealing element of the process.
+
+-   [How to remove a sealing blade](https://shrinkwrappingsupplies.co.uk/shrink-wrap-machine-servicing.html)
+-   [how to adjust the magnet discs](https://shrinkwrappingsupplies.co.uk/shrink-wrap-machine-servicing.html)
+-   [how to Fit a sealing blade](https://shrinkwrappingsupplies.co.uk/shrink-wrap-machine-servicing.html)
+
+---
+
+> **URL:** <https://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/finished-shrink-wrap-problems-hot-spots-or-holes>
+> **Section:** 2 Troubleshooting Guides
+
+# Finished Shrink Wrap Problems: Hot Spots Or Holes
+
+**Effect:** They are termed hot spots but are really holes in the shrink film which look as if a lighter has singed the finished film. In essence, the shrink film has overheated in a particular area.
+
+The path of least resistance is your problem. While shrink film is made to be equal across all parts, every structure or material is either made to have a weak point or simply has one. Therefore, it's not one particular area inside a tunnel causing the problem or a defective part of the shrink wrap.
+
+What is a Hot Spot not? Unfortunately, Michael Barrymore lovers, in this instance a hot spot is always a hot spot, but they can be prevented from occurring. Simply by taking the following actions and running tests before running a continuous packing line.
+
+The shrink wrap process is evidently too hot for the film to handle. If you have previously programmed settings and the product you are now wrapping is larger, you may need to simply adjust heat temperatures.
+
+1.  Allocation of overall heat to a shrink film is not only controlled by temperature but by motion also. Consider whether the conveyor is moving too slowly and should perhaps be speeded up.
+
+2.  There may be a problem with heat not being exhausted and not enough air evacuation holes. Why not trial the use of shrink film which has micro perf venting and holes in the film to lessen the effect of hot air build up within.
+
+Much like Fish Eyes and Dog Ears, the cause of hot spots could be that the heat vacuum and air velocity within is too high also. While it is rare, the type of shrink film you use may also not be compatible with the shrink wrap machine you are using. And if manually applying the shrink bag to the product, gauge the distance better and ensure the heat gun is not too close.
+
+---
+
+> **URL:** <https://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/finished-shrink-wrap-problems-ballooning>
+> **Section:** 2 Troubleshooting Guides
+
+# Finished Shrink Wrap Problems: Ballooning
+
+**Effect:** Ballooning within Shrink wrap is when after being wrapped, the product is enclosed within a pillow case effect. Air which has been trapped within and has no escape.
+
+While it may not appear to be a huge problem from the outset, the idea of shrink wrap is that it shrinks and wraps. If air gets trapped between the product and the wrap and goes on to get punctured, the product/s within will then be free and loose to move around. You may also experience further packaging problems due to inflated products further down the packing line. Not least a presentation issue once it reaches the shop floor.
+
+It's a tragedy of science that as air warms up, it expands which is why many shrink film products such as shrink bags and indeed entire rolls, have a form of micro perf venting. Depending on the shrink film product you are using, this allows air to escape in an orderly fashion while the film is being shrunk around your product. However, there are other ways to resolve visible ballooning in shrinkwrap.
+
+1.  If you are sealing manually and using shrink film bags, try to get most of the air out of the bag before beginning the sealing process. This can be more difficult with oddly shaped products. Also use air evacuation holes in the shrink film bag.
+
+2.  Allow the shrink film to help you. Buy shrinkwrap which contains micro perf holes that enable the air to evacuate while the wrap is shrunk and before it is fully sealed.
+
+3.  If you are already using shrink film with air vents, consider whether they are positioned correctly or that there are enough holes in the first place. If there is a particular area where ballooning is more evident, consider situating the micro perf venting closer to the problematic area and try several tests before continuing with a mass product packing line.
+
+4.  Why buy shrink film which has holes in it? It's a good question, especially when it comes to protection of food or tamper proofing products. The simplest way to understand the shrink process in this case is that the film is micro perforated.
+
+As the shrink wrap is shrunk and the air underneath expands, circulates and escapes, the holes in the wrap get smaller until they are no longer there. However, the air has been allowed to escape and any negative ballooning in shrink wrap is prevented or pre-vented so to speak.
+
+---
+
+> **URL:** <https://crm.shrinkwrappingsupplies.co.uk/knowledge-base/article/finished-shrink-wrap-problems-fish-eyes>
+> **Section:** 2 Troubleshooting Guides
+
+# Finished Shrink Wrap Problems: Fish Eyes
+
+**Effect:** If you notice round or oval shaped patterns across any part of the shrink wrap, this has been caused by the shrink film not shrinking completely.
+
+There's a reason you chose shrink wrap for packaging and that's because it's a transparent wrapper that allows you to view the products held within. Which is why you didn't choose bubble wrap for the same reasons. Fish Eyes are akin to a bubble wrap but there are shrinkwrap machine solutions to eek out this problem.
+
+1.  Much like Dog ears, one of the sources of these Fish Eyes is an inadequate regulation of heat control. Make sure the tunnel temperature is correct at all times and if it isn't, go through the machine guide and find out why. Is the tunnel closed off properly, is your product that is to be wrapped in shrink film too large? Is a part which regulates temperature faulty?
+
+2.  Fish eyes are also caused by the same problems as those of Crow's Feet. As stated in our other helpful answers, if you can resolve one issue, you'll probably solve most of your problems with shrink film aesthetics. If you're using a conveyor to move products through a chamber, trial different speeds. It's probable that the tunnel conveyor speed is too fast and the shrink film is not receiving enough heat within the duration.
+
+3.  Whole movement and longevity of circulating air is often the cause, the sources are various. For instance, your shrink wrap machine works much like an oven. Heat needs to circulate in a vacuum at a constant temperature. If the air velocity is not high enough and adequate controlled ventilation, heat rises too quickly. Check the tunnel air velocity is high enough.
+
+4.  Fish eyes, Dog Ears, Crows Feet and Hot Spots are all predominately caused by issues of heat regulation within the chamber or tunnel. The product you are shrink wrapping needs to be in the tunnel for the correct amount of time and for the correct amount of heat to be high enough across the entire product.
+
+Fish eyes are some of most unsightly problems with shrink wrap that can occur, resolve this issue and you may resolve others. Keep your machine clean, well serviced and do regular preventive maintenance. Also consider test sampling across a range daily if you have a high tempo production line.
+
+=== END of Troubleshooting Guides ===

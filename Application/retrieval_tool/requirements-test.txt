@@ -1,0 +1,15 @@
+# Test dependencies for retrieval tool
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-xdist>=3.0.0  # For parallel test execution
+psutil>=5.9.0        # For memory tracking
+numpy>=1.21.0        # For performance tests
+coverage>=7.0.0      # For coverage reports
+pytest-benchmark>=4.0.0  # For detailed performance benchmarks
+pytest-mock>=3.10.0  # For mocking in tests
+pytest-timeout>=2.1.0  # For timeout control in performance tests
+
+# Optional but recommended
+pytest-sugar>=0.9.7  # For better test output formatting
+pytest-html>=3.2.0   # For HTML test reports
+pytest-metadata>=3.0.0  # For test metadata 
