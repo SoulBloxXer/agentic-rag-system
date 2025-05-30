@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 4. Set up environment variables:
-   - Copy `.env.example` to `.env`
+   - Copy `env example` to `.env`
    - Add your OpenAI API key to the `.env` file:
      ```
      OPENAI_API_KEY=your_api_key_here
